@@ -1,4 +1,4 @@
-Hello, I've been programming for 3 months, and my future focus will be on Rust, Assembly, and C for low-level and systems development!
+Hello, I've been programming for 3 months, and my future focus will be on Rust, Assembly, and C for low-level and systems development
 
 🧱 **Tech stack & Future Languages**
 
