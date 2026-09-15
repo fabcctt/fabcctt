@@ -9,6 +9,3 @@
 - [mini-kernel](https://github.com/fabcctt/mini-kernel) - A minimal x86 kernel in C and Assembly
 - [cpp-c-fundamentals](https://github.com/fabcctt/cpp-c-fundamentals) - C/C++ practice
 - [os-systems-projects](https://github.com/fabcctt/os-systems-projects) - OS-related projects
-
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabcctt&show_icons=true)
