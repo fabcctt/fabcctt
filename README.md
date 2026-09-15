@@ -1,9 +1,14 @@
-## current languages i'm learning
+## Currently learning
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+## Learning soon
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assembly&logoColor=white)
 
-## languages i'll learn soon
+## Projects
+- [mini-kernel](https://github.com/fabcctt/mini-kernel) - A minimal x86 kernel in C and Assembly
+- [cpp-c-fundamentals](https://github.com/fabcctt/cpp-c-fundamentals) - C/C++ practice
+- [os-systems-projects](https://github.com/fabcctt/os-systems-projects) - OS-related projects
 
-![Rust](https://img.shields.io/badge/-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Assembly](https://img.shields.io/badge/ASM-525252?style=for-the-badge)
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabcctt&show_icons=true)
